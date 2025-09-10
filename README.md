@@ -1,7 +1,7 @@
 Sou estudante de Ciências da Computação e entusiasta da área de desenvolvimento de software. Estou iniciando minha trajetória profissional com muito entusiasmo, dedicação e vontade de aprender continuamente.
 Tenho interesse especial em desenvolvimento front-end e fullstack, buscando aprimorar minhas habilidades técnicas enquanto colaboro em projetos que gerem impacto positivo.
 
-📚 Aprendizado Atual
+- Aprendizado Atual
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
@@ -15,7 +15,7 @@ Fundamentos de Python
 
 Meu objetivo é consolidar uma base sólida em programação e evoluir gradualmente para projetos mais complexos e desafiadores.
 
-🤝 Interesses em Colaboração
+- Interesses em Colaboração
 
 Gosto de trabalhar em equipe e acredito que a troca de conhecimento é essencial para o crescimento profissional. Estou aberto a colaborar em:
 
